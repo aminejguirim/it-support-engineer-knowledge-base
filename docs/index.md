@@ -9,10 +9,10 @@ Bienvenue dans cette base de connaissances consacrée au support informatique et
 
 | Parcours | Contenu | État |
 |---|---|---|
-| Microsoft IT Support Specialist | Fondamentaux, réseaux, sauvegarde, cybersécurité, Microsoft 365 et dépannage | En cours |
+| Microsoft IT Support Specialist | Six modules : fondamentaux, réseaux, maintenance, cybersécurité, Microsoft 365 et dépannage | Disponible |
 | Administration systèmes | Windows, Linux, identité et services | À venir |
-| Microsoft 365 & Cloud | Entra ID, Exchange Online, Intune, Azure | À venir |
-| Réseaux & cybersécurité | TCP/IP, segmentation, VPN, pare-feu et sécurité | À venir |
+| Microsoft 365 & Cloud avancé | Entra ID, Exchange, Intune, Azure et sécurité cloud | À venir |
+| Réseaux & cybersécurité avancés | TCP/IP, segmentation, VPN, pare-feu et supervision | À venir |
 | Automatisation | PowerShell, Power Apps, Power Automate et SQL | À venir |
 
 ## Méthode pédagogique
@@ -35,4 +35,4 @@ Chaque module suit le même fil conducteur :
 - Sauvegarde, restauration et continuité d'activité
 - Scripting et automatisation des tâches IT
 
-[Commencer le module 01](microsoft-it-support/01-introduction-informatique.md)
+[Accéder au parcours Microsoft IT Support Specialist](microsoft-it-support/index.md)
