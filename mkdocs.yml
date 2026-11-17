@@ -55,5 +55,10 @@ nav:
   - Parcours Microsoft IT Support:
       - Présentation: microsoft-it-support/index.md
       - 01 – Introduction à l'informatique: microsoft-it-support/01-introduction-informatique.md
+      - 02 – Réseaux sécurisés: microsoft-it-support/02-reseaux-securises.md
+      - 03 – Maintenance et sauvegarde: microsoft-it-support/03-maintenance-sauvegarde.md
+      - 04 – Cybersécurité et vie privée: microsoft-it-support/04-cybersecurite-vie-privee.md
+      - 05 – Microsoft 365: microsoft-it-support/05-microsoft-365.md
+      - 06 – Diagnostic et dépannage: microsoft-it-support/06-diagnostic-depannage.md
   - Expérience professionnelle: experience/index.md
   - Projets & laboratoires: projects/index.md
